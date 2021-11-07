@@ -1,2 +1,10 @@
 
 .ipynb_checkpoints/
+
+*.png
+
+train_case2.csv
+
+train.csv
+
+webinar3.ipynb
